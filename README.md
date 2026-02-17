@@ -23,8 +23,7 @@ Although logical learning in Tsetlin Machines performs remarkably similar to mul
 provide superior pattern recognition accuracy in complex tasks, the symbolic-symbolic route
 to AGI crosses six unchartered research challenges (C1-C6 in the above figure):
 * __C1 Conceptualization.__ We need knowledge on how logical learning of symbolic representations can replicate and move beyond the inductive biases of DL/LLMs, ultimately surpassing human-level reactive thinking.
-* __C2 Introspection.__ We need to understand how various aspects of human introspection, including self-
-assessment, can be modeled symbolically with appropriate algorithmic and theoretical underpinnings.
+* __C2 Introspection.__ We need to understand how various aspects of human introspection, including self-assessment, can be modeled symbolically with appropriate algorithmic and theoretical underpinnings.
 * __C3 Transparency.__ We need to discover how to build the steps towards AGI so that every step can be
 understood like engineers understand an airplane, enabling safety standards comparable to those in aviation.
 * __C4 Lifelong learning.__ We need knowledge of the modeling, algorithms, and theory required for lifelong
