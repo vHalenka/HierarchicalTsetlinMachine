@@ -13,7 +13,7 @@ radical methodologies and theories that revitalize decades of research in logic-
 including experiment design, while advancing machine learning capabilities to the Deep Learning (DL)/LLM-level and beyond.
 To this end, CAIR will devise a new class of inductive logic programming founded on the Tsetlin Machine paradigm, and
 then develop a framework for reflective reasoning that leverages the up-scaled pattern recognition capability of
-Tsetlin Machines. The resulting AGI methodology will profoundly change the research landscape and the impact of AI._
+Tsetlin Machines. Upon success, the resulting AGI methodology will profoundly change the research landscape and the impact of AI._
 
 <p align="center">
   <img width="90%" src="https://github.com/cair/HierarchicalTsetlinMachine/blob/main/figures/Six_Research_Challenges.png">
@@ -22,8 +22,7 @@ Tsetlin Machines. The resulting AGI methodology will profoundly change the resea
 Although logical learning in Tsetlin Machines performs remarkably similar to multilayer neural networks and recent Tsetlin Machine advances show that they can
 provide superior pattern recognition accuracy in complex tasks, the symbolic-symbolic route
 to AGI crosses six unchartered research challenges (C1-C6 in the above figure):
-* __C1 Conceptualization.__ We need knowledge on how logical learning of symbolic representations can repli-
-cate and move beyond the inductive biases of DL/LLMs, ultimately surpassing human-level reactive thinking.
+* __C1 Conceptualization.__ We need knowledge on how logical learning of symbolic representations can replicate and move beyond the inductive biases of DL/LLMs, ultimately surpassing human-level reactive thinking.
 * __C2 Introspection.__ We need to understand how various aspects of human introspection, including self-
 assessment, can be modeled symbolically with appropriate algorithmic and theoretical underpinnings.
 * __C3 Transparency.__ We need to discover how to build the steps towards AGI so that every step can be
