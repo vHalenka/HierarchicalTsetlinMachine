@@ -64,6 +64,7 @@ void read_file(void)
 int main(void)
 {	
 	srand(time(NULL));
+	tm_rng_seed((uint64_t)time(NULL) ^ ((uint64_t)clock() << 32));
 
 	read_file();
 
